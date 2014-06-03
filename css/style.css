@@ -1,0 +1,28 @@
+a {
+    color: red;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+div {
+    width: 500px;
+    background: red;
+    margin: auto;
+    text-align: center;
+}
+
+#emphasis {
+    color: cornflowerblue;
+}
+
+.example_class {
+    color: green;
+}
+
+li:nth-child(4) {
+    color: orange;
+}
+
